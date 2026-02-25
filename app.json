@@ -1,7 +1,7 @@
 {
   "name": "Fredi Ai Md",
   "description": "WhatsApp Multi-Device Bot",
-  "repository": "https://github.com/timothTz/Freebot/tree/main",
+  "repository": "https://github.com/timnasax2026/Freebot/tree/main",
   "logo": "https://raw.githubusercontent.com/timothTz/Freebot/main/assets/logo.png",
   "keywords": ["whatsapp", "bot", "fredi ai", "baileys"],
   "env": {
