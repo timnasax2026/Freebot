@@ -29,7 +29,7 @@ Pata Session ID yako kwanza kabla ya kudeploy kwenye Heroku:
 Bonyeza button hapo chini kudeploy moja kwa moja kwenye Heroku:
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/timothTz/Freebot">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/timnasax2026/Freebot)">
     <img src="https://img.shields.io/badge/DEPLOY-ON_HEROKU-8A2BE2?style=for-the-badge&logo=heroku&logoColor=white" width="350" height="75"/>
   </a>
 </p>
